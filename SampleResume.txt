@@ -1,0 +1,42 @@
+John Doe
+123 Tech Lane, San Francisco, CA 94105
+john.doe@email.com | (555) 123-4567 | LinkedIn: /in/johndoe
+
+PROFESSIONAL SUMMARY
+Dedicated software engineer with 5 years of experience in full-stack development, specializing in creating scalable web applications and implementing innovative solutions. Proven track record of improving system efficiency and collaborating effectively in agile team environments.
+
+PROFESSIONAL EXPERIENCE
+
+Senior Software Engineer
+TechInnovate Solutions, San Francisco, CA
+June 2020 - Present
+- Lead development of microservices architecture, reducing system response time by 40%
+- Implemented continuous integration and deployment (CI/CD) pipelines
+- Managed cross-functional team of 6 developers, improving project delivery timelines
+- Developed RESTful APIs using Java Spring Boot and microservices architecture
+
+Software Engineer
+DataDrive Technologies, San Jose, CA
+July 2018 - May 2020
+- Designed and maintained enterprise-level web applications
+- Collaborated with product managers to translate business requirements into technical specifications
+- Optimized database queries, improving application performance by 35%
+- Utilized technologies: Java, Python, MySQL, Docker, Kubernetes
+
+TECHNICAL SKILLS
+- Programming Languages: Java, Python, JavaScript
+- Frameworks: Spring Boot, React, Node.js
+- Tools: Git, Jenkins, Docker, Kubernetes
+- Databases: MySQL, PostgreSQL, MongoDB
+- Cloud Platforms: AWS, Google Cloud Platform
+
+EDUCATION
+Bachelor of Science in Computer Science
+Stanford University, Stanford, CA
+Graduated: May 2018
+- GPA: 3.7/4.0
+- Minor in Data Science
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect
+- Oracle Certified Professional, Java SE 11 Developer

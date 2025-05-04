@@ -1,0 +1,46 @@
+Senior Software Engineer - Full Stack Development
+
+About Us:
+TechGrow Innovations is a rapidly growing technology company dedicated to creating cutting-edge software solutions that transform business processes.
+
+Job Description:
+We are seeking an experienced Senior Software Engineer to join our dynamic development team. The ideal candidate will have extensive experience in full-stack development, strong problem-solving skills, and the ability to lead technical initiatives.
+
+Responsibilities:
+- Design and develop scalable web applications using Java and modern frameworks
+- Implement microservices architecture
+- Lead technical design and code reviews
+- Collaborate with cross-functional teams to deliver high-quality software solutions
+- Optimize application performance and implement efficient database queries
+- Manage continuous integration and deployment processes
+- Mentor junior developers and contribute to team knowledge sharing
+
+Required Qualifications:
+- Bachelor's degree in Computer Science or related field
+- 5+ years of professional software development experience
+- Expertise in Java and full-stack development
+- Strong understanding of microservices architecture
+- Experience with CI/CD pipelines
+- Proficiency in multiple programming languages
+- Experience with cloud platforms (AWS, Google Cloud)
+
+Technical Skills:
+- Java and Spring Boot
+- Python
+- JavaScript and modern front-end frameworks
+- Docker and Kubernetes
+- MySQL and NoSQL databases
+- RESTful API design
+- Git version control
+
+Preferred Qualifications:
+- AWS or cloud platform certifications
+- Experience in agile development methodologies
+- Background in developing enterprise-level applications
+
+Benefits:
+- Competitive salary
+- Health, dental, and vision insurance
+- 401(k) matching
+- Flexible work environment
+- Professional development opportunities
