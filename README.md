@@ -41,39 +41,6 @@ ResumeSmart ATS Scorer is a Java-based tool designed to evaluate resumes against
 - A text-based resume file (`SampleResume.txt`).
 - A text-based job description file (`JobDescription.txt`).
 
-### Installation
-
-1. Clone this repository to your local machine:
-
-   ```bash
-   git clone https://github.com/AdityaRaj-X21/Resume_ATS_Scorer.git
-   cd ResumeSmart-ATS-Scorer
-   ```
-
-2. Compile the Java code:
-
-   ```bash
-   javac ATSResumeScorer.java
-   ```
-
-3. Run the program:
-
-   ```bash
-   java ATSResumeScorer
-   ```
-
-## Example
-
-Place the following example files in the same directory as the project:
-
-### SampleResume.txt
-```
-John Doe
-Professional Summary: Skilled Project Manager with 5 years of experience in leadership, team collaboration, and analytics.
-Work Experience: 5 years of professional experience in problem solving and communication.
-Education: Bachelor’s degree in Business Administration.
-Skills: Leadership, Problem Solving, Communication, Analytics.
-```
 
 ### JobDescription.txt
 ```
@@ -111,7 +78,7 @@ Total ATS Score: 76.49%
 - Add support for multiple file formats (e.g., PDF, DOCX).
 - Include advanced natural language processing (NLP) for better keyword matching.
 - Provide a graphical user interface (GUI) for enhanced usability.
-- Enable customization of scoring weights and keywords.
+- Enable customisation of scoring weights and keywords.
 
 ## Contributing
 
@@ -123,4 +90,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-Developed by **Aditya**.
+Developed by **Rahul**.
